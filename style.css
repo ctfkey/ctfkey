@@ -1,0 +1,10 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#textCode{
+    padding: 100px;
+    margin: 100px 300px;
+    
+    width: 400px;
+}
